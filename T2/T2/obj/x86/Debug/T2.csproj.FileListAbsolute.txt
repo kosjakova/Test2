@@ -1,0 +1,4 @@
+C:\Users\User\Desktop\Help - Git\Test2\T2\T2\bin\Debug\T2.exe
+C:\Users\User\Desktop\Help - Git\Test2\T2\T2\bin\Debug\T2.pdb
+C:\Users\User\Desktop\Help - Git\Test2\T2\T2\obj\x86\Debug\T2.exe
+C:\Users\User\Desktop\Help - Git\Test2\T2\T2\obj\x86\Debug\T2.pdb
