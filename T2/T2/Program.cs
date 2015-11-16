@@ -13,7 +13,7 @@ namespace T2
             
             Console.WriteLine("\n\n Press any key to exit!");
             
-            int x, y, counter = 0;
+            int x, y, w, counter = 0;
 
             for (int i = 0; i == counter; i++)
             {
@@ -25,6 +25,9 @@ namespace T2
                     Console.Write(" Enter please second number: ");
                     y = Int32.Parse(Console.ReadLine());
 
+                   w = x + y;
+                    
+                    Console.WriteLine("\n x + y = " + w);
                 }
                 catch (Exception error)
                 {
